@@ -1,6 +1,6 @@
 theme = "hugo-theme-minos"
 baseURL = "https://braultg.github.io/"
 publishDir = "C:\\Users\\Ghislain\\OneDrive\\raqc\\Outils diffusion rapide reproductible\\braultg.github.io"
-relativePath = true
+relativeURLs = true
 languageCode = "en-us"
 title = "My New Hugo Site"
